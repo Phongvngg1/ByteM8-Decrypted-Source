@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteM8 Activator v1.4", "ByteM8 Activator v1.4\ByteM8 Activator v1.4.csproj", "{BEF03ED7-96EA-4F5B-9CF4-4A672E8AD3BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF03ED7-96EA-4F5B-9CF4-4A672E8AD3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF03ED7-96EA-4F5B-9CF4-4A672E8AD3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF03ED7-96EA-4F5B-9CF4-4A672E8AD3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF03ED7-96EA-4F5B-9CF4-4A672E8AD3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
